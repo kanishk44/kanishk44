@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hey there! I'm a computer science graduate student and a self-taught developer. I build websites for fun.<br>I'm currently working on a big project which is a clone of the popular social media platform LinkedIn. <br>I'm looking for a full time Software Engineer job in the United States, and would love to collaborate and work with like-minded people, to make positive impact in the world using code.<br>Ask me about: Frontend/Backend/Full Stack development.<br>I'm currently learning Quality Assurance & Testing, from FreeCodeCamp's projects and certification.<br>Fun fact: When I'm not in front of a computer, I'm usually reading a book , or hanging out with friends, working out or cooking.<br>
+Hey there! I'm a computer science graduate student and a self-taught developer. I build websites for fun.<br>I've recently worked on a personal project which is a clone of the popular social media platform LinkedIn. <br>I'm on the lookout for my next job as a Frontend/Backend/Full-Stack Developer in the United States, and would love to collaborate and work with like-minded people, to make positive impact in the world using code.<br>Ask me about: Frontend/Backend/Full Stack development.<br>Fun fact: When I'm not in front of a computer, I'm usually reading a book , or hanging out with friends, working out or cooking.<br>
 
 
 ## 🌐 Socials:
