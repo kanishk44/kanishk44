@@ -1,6 +1,12 @@
 # 💫 About Me:
-Hey there! I'm a computer science graduate student and a self-taught developer. I build websites for fun.<br>I've recently worked on a personal project which is a clone of the popular social media platform LinkedIn. <br>I'm on the lookout for my next job as a Frontend/Backend/Full-Stack Developer in the United States, and would love to collaborate and work with like-minded people, to make positive impact in the world using code.<br>Ask me about: Frontend/Backend/Full Stack development.<br>Fun fact: When I'm not in front of a computer, I'm usually reading a book , or hanging out with friends, working out or cooking.<br>
-
+As a seasoned Software Engineer, I've honed my expertise in React.js and Node.js, enabling me to create engaging user interfaces and robust server-side solutions. My proficiency extends to AWS, where I'm well-versed in cloud-based deployment and scalability strategies.
+<br>
+Recently, I undertook the rewarding endeavor of developing a LinkedIn-inspired personal project, demonstrating my ability to turn intricate concepts into practical applications.
+<br>
+I'm actively on the lookout for roles as a Frontend, Backend, or Full-Stack Developer in the United States. I'm enthusiastic about forging partnerships with like-minded professionals to design innovative web solutions that leave a lasting impact on society.
+<br>
+Away from the screen, I indulge in my passion for literature, fitness, and the culinary arts.
+<br>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kanishk.07_)<!-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kanishk-shedsale) --> [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/kanishk_777)
