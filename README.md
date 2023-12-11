@@ -5,7 +5,7 @@ Recently, I undertook the rewarding endeavor of developing a LinkedIn-inspired p
 <br>
 I'm actively on the lookout for roles as a Frontend, Backend, or Full-Stack Developer in the United States. I'm enthusiastic about forging partnerships with like-minded professionals to design innovative web solutions that leave a lasting impact on society.
 <br>
-Away from the screen, I indulge in my passion for literature, fitness, and the culinary arts.
+Away from the screen, I indulge in my passion for reading and fitness.
 <br>
 
 ## 🌐 Socials:
