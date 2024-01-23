@@ -3,7 +3,7 @@ As a seasoned Software Engineer, I've honed my expertise in React.js and Node.js
 <br>
 Recently, I undertook the rewarding endeavor of developing a LinkedIn-inspired personal project, demonstrating my ability to turn intricate concepts into practical applications.
 <br>
-I'm actively on the lookout for roles as a Frontend, Backend, or Full-Stack Developer in the United States. I'm enthusiastic about forging partnerships with like-minded professionals to design innovative web solutions that leave a lasting impact on society.
+I'm actively on the lookout for roles as a Frontend, Backend, or Full-Stack Developer which is fully remote. I'm enthusiastic about forging partnerships with like-minded professionals to design innovative web solutions that leave a lasting impact on society.
 <br>
 Away from the screen, I indulge in my passion for reading and fitness.
 <br>
