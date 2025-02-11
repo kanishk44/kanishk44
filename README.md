@@ -1,12 +1,5 @@
 # 💫 About Me:
-As a seasoned Software Engineer, I've honed my expertise in React.js and Node.js, enabling me to create engaging user interfaces and robust server-side solutions. My proficiency extends to AWS, where I'm well-versed in cloud-based deployment and scalability strategies.
-<br>
-Recently, I undertook the rewarding endeavor of developing a LinkedIn-inspired personal project, demonstrating my ability to turn intricate concepts into practical applications.
-<br>
-I'm actively on the lookout for roles as a Frontend, Backend, or Full-Stack Developer which is fully remote. I'm enthusiastic about forging partnerships with like-minded professionals to design innovative web solutions that leave a lasting impact on society.
-<br>
-Away from the screen, I indulge in my passion for reading and fitness.
-<br>
+Full Stack Developer | MS CS @ NJIT | Crafting scalable MERN applications | AWS & GCP | Passionate about building efficient solutions with clean code | React.js • Node.js • MongoDB • MySQL | Open to collaboration on innovative projects 🚀
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kanishk.07_)<!-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kanishk-shedsale) --> [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/kanishk_777)
